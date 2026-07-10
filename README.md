@@ -8,3 +8,4 @@ Este repositorio demuestra la implementación de:
 - Pull Requests con revisión por pares
 - Integración Continua con GitHub Actions
 - Autenticación individual con SSH
+- ## Actualización inicial del proyecto
